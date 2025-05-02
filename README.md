@@ -52,3 +52,27 @@ iOS app development. Otherwise, this was a pretty fun experience and I cannot wa
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+##  App Brainstorming
+
+My favorite applications and their features:
+
+- [ ] Youtube
+   - Can easily watch entertaining content
+   - Easy to interact with others
+
+- [ ] Instagram
+   - Able to see what friends are up to
+   - Can abstract posts and personalize my page
+     
+- [ ] FaceTime
+   - Multitask; able to video chat and do other things simultaneously
+   - FaceTime photos
+
+## App Idea
+
+One app idea I have is to create a fully-fledged Soccer Analyzer/Coach, where it leverages computer
+vision and AI to analyze game and practice highlights, and provide a specific player with 
+information on how to improve certain aspects of their game and reach their goals as a soccer 
+player. Ideally, I would gradually add features like film analysis, training drills to improve in a
+specific area, and also a stat tracker to view game stats.
