@@ -1,6 +1,3 @@
-# ios-prework
- Codepath iOS prework project
-
 # Prework - *iOS Introductory App*
 
 Submitted by: **Trenton Regis**
