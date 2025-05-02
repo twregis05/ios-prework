@@ -19,7 +19,14 @@ The following **required** functionality is completed:
 
 
 
-<div style="position: relative; padding-bottom: 64.86161251504213%; height: 0;"><iframe src="https://www.loom.com/embed/208b0b4af29b4fc5afa62f0c83fef22e?sid=6e165662-91cc-4c83-9e5f-5ffbb3503c32" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/208b0b4af29b4fc5afa62f0c83fef22e">
+      Loom | Free Screen & Video Recording Software - 2 May 2025 - Watch Video
+    </a>
+    <a href="https://www.loom.com/share/208b0b4af29b4fc5afa62f0c83fef22e">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/208b0b4af29b4fc5afa62f0c83fef22e-9e9abb8f6d1dcbe6-full-play.gif">
+    </a>
+  </div>
 
 
 
